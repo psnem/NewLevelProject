@@ -21,7 +21,7 @@ public class PrimeOrNot {
 			if(count==2)
 				System.out.println("Number  is prime");
 			else
-				System.out.println("not prime" +count);
+				System.out.println("not prime" + count);
 		}
 		else
 			System.out.println("Not prime");
